@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Tutorial</string>
+    <string name="msg">This is a tutorial application to demonstrate all the contents in the blog.</string>
+
+    <string name="yatrikaImage">Yatrika Image</string>
+    <string name="AtoZImage">A to Z Image</string>
+
+    <string name="name">Developed by</string>
+    <string name="developer">Siddharth Kanikdale</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
